@@ -1,2 +1,2 @@
 # Rust_Projects
-Small Projects in Rust for learning purpose.
+Few Projects in Rust for learning purpose.
